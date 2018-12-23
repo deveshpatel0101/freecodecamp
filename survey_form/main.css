@@ -1,0 +1,80 @@
+body {
+    margin: 0 0 20px 0;
+    padding: 0;
+    background-color: #cacaca;
+}
+
+#main {
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#title {
+    font-size: 42px;
+    letter-spacing: 1.2px;
+}
+
+#description {
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+form label {
+    text-align: right;
+}
+
+form input, #dropdown {
+    height: 25px;
+    padding: 3px;
+    border-radius: 2px;
+    border: none;
+}
+
+form input[type='radio'] {
+    height: 15px;
+}
+
+form ul {
+    list-style-type: none;
+    float: left;
+}
+
+.rowTab {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 15px;
+}
+
+.rowTab div p {
+    float: right;
+}
+
+form button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    width: 120px;
+    background-color: aqua;
+    transition: 0.3s;
+    color: white;
+    border: 1px solid #29fdfd;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+#radio,
+#comments {
+    text-align: left;
+}
+
+#checkbox ul {
+    float: left;
+    padding: 0;
+}
+
+form button:hover {
+    background-color: white;
+    color: aqua;
+    cursor: pointer;
+}
