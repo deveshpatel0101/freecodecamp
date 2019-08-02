@@ -46,7 +46,7 @@
 .quote-container .quote-footer {
   margin-top: 30px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .quote-footer button {
