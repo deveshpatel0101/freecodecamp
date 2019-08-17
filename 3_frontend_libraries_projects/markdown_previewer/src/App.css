@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+}
+
+.input-container,
+.output-container {
+  flex: 1;
+  height: 100vh;
+}
+
+.input-container textarea {
+  width: 98%;
+  height: 98.3%;
+  resize: none;
+  overflow: auto;
+}
+
+.output-container {
+  overflow: auto;
+}
+
+.output-container img {
+  width: 100%;
+}

@@ -23,7 +23,7 @@ Solutions to completed projects of [freecodecamp](https://www.freecodecamp.org/)
 3. Front End Libraries Project
 
    - Random Quote Machine :heavy_check_mark:
-   - Markdown Previewer
+   - Markdown Previewer :heavy_check_mark:
    - Drum Machine
    - JavaScript Calculator
    - Pomodro Clock
