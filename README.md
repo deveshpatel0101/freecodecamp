@@ -24,7 +24,7 @@ Solutions to completed projects of [freecodecamp](https://www.freecodecamp.org/)
 
    - Random Quote Machine :heavy_check_mark:
    - Markdown Previewer :heavy_check_mark:
-   - Drum Machine
+   - Drum Machine :heavy_check_mark:
    - JavaScript Calculator
    - Pomodro Clock
 
